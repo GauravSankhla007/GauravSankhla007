@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gaurav Sankhla</h1>
+<h1 align="center">Hola , I'm Gaurav Sankhla</h1>
 <h3 align="center">Data Analyst | Python, SQL, Power BI, Excel</h3>
 
 <p align="center">
-  I am a Computer Science & Engineering graduate passionate about transforming complex datasets into clear, actionable business insights. I specialize in data modeling, exploratory data analysis, and building interactive dashboarding solutions that solve real-world problems[cite: 1].
+  I am a Computer Science & Engineering graduate passionate about transforming complex datasets into clear, actionable business insights[cite: 1]. I specialize in data modeling, exploratory data analysis, and building interactive dashboarding solutions that solve real-world problems[cite: 1].
 </p>
 
 <p align="center"> 
@@ -11,13 +11,7 @@
 </p>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=python,postgres,mysql" /></td>
-      <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" /></td>
-      <td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="50" /></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,powerbi,excel" />
 </div>
 
 <br>
@@ -31,7 +25,7 @@
 
 <h3 align="left">🌐 Connect with me & Documents:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gaurav-sankhla" target="_blank">
+  <a href="https://linkedin.com/in/gaurav-sankhla" target="https://www.linkedin.com/in/gaurav-sankhla007/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" height="30" />
   </a>
   <a href="./Gaurav__1_-2.pdf" target="_blank">
@@ -50,13 +44,7 @@
 
 - **Data Analytics & Databases:**
 <p align="left">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=postgres,mysql" /></td>
-      <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" /></td>
-      <td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="50" /></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,powerbi,excel" />
 </p>
 
 - **Libraries, Version Control & Tools:**
@@ -69,8 +57,8 @@
 <h3 align="left">📊 GitHub Performance Insights:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravSankhla007&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GauravSankhla007&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravSankhla007&show_icons=true&theme=dark" width="48%" alt="Gaurav's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GauravSankhla007&theme=dark" width="49%" alt="Gaurav's GitHub streak" />
 </p>
 
 <br>
