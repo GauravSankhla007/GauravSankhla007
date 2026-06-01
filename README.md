@@ -10,6 +10,162 @@ Turning raw data into actionable insights through analytics, dashboards, and Pyt
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GauravSankhla007&label=Profile%20Views&color=0e75b6&style=flat" />
+
+  <img src="https://img.shields.io/github/followers/GauravSankhla007?style=flat&logo=github" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 📊 Passionate about Data Analytics, Visualization, and Machine Learning
+* 🐍 Building projects using Python, SQL, Power BI, and Excel
+* 📈 Experienced in data cleaning, EDA, dashboarding, and reporting
+* 🎯 Currently targeting Data Analyst & Python Developer Internship roles
+* 🧠 Runner-up at Smart India Hackathon (Inter-College)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,cpp" />
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Job Market Salary & Skills Analysis
+
+* Analyzed 479K+ global job postings using SQL and Power BI
+* Identified salary trends and high-demand technical skills
+* Built interactive dashboards for hiring insights
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+
+---
+
+### 📈 Data Jobs Hiring Trends Dashboard
+
+* Developed Power BI dashboards using 478K+ job records
+* Created KPI cards, drill-through reports, and DAX measures
+* Analyzed hiring trends, salary insights, and remote work distribution
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+
+---
+
+### 🎬 Netflix Content Trends Analysis
+
+* Performed exploratory data analysis on 6,000+ Netflix titles
+* Cleaned and analyzed metadata using Pandas and NumPy
+* Identified genre trends and release growth patterns
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+
+---
+
+### 📉 Regional Sales Performance Dashboard
+
+* Built an Excel dashboard tracking regional sales performance
+* Used Pivot Tables, charts, and formulas for business insights
+* Identified top-performing and underperforming regions
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img 
+ src="https://github-readme-stats.vercel.app/api?username=GauravSankhla007&show_icons=true&theme=tokyonight&hide_border=true" 
+ width="48%" 
+/>
+
+<img 
+ src="https://github-readme-streak-stats.herokuapp.com/?user=GauravSankhla007&theme=tokyonight&hide_border=true" 
+ width="48%" 
+/>
+
+</p>
+
+<p align="center">
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSankhla007&layout=compact&theme=tokyonight&hide_border=true" 
+ width="40%" 
+/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
+      height="30" 
+    />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" 
+      height="30" 
+    />
+  </a>
+
+  <a href="Gaurav_Resume.pdf" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Resume-PDF-E34F26?logo=adobeacrobatreader&logoColor=white" 
+      height="30" 
+    />
+  </a>
+
+</p>
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [sankhlagaurav86@gmail.com](mailto:sankhlagaurav86@gmail.com)
+* 🌍 Rajasthan, India
+
+---
+
+<p align="center">
+⭐ Explore my repositories to see analytics, dashboards, and Python projects in action.
+</p>
+<h1 align="center">Hi 👋, I'm Gaurav Sankhla</h1>
+
+<h3 align="center">
+Data Analyst • Python Developer • Power BI Enthusiast
+</h3>
+
+<p align="center">
+Turning raw data into actionable insights through analytics, dashboards, and Python-based solutions.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GauravSankhla007&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/GauravSankhla007?style=flat&logo=github" />
 </p>
 
