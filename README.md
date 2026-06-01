@@ -87,14 +87,14 @@ Turning raw data into actionable insights through analytics, dashboards, and Pyt
 
 <p align="left">
 
-  <a href="YOUR_LINKEDIN_LINK" target="[(https://www.linkedin.com/in/gaurav-sankhla007/)">
+  <a href="https://www.linkedin.com/in/gaurav-sankhla007/" target="[(https://www.linkedin.com/in/gaurav-sankhla007/)">
     <img 
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
       height="30" 
     />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK" target="https://portfolio-phi-five-98.vercel.app/">
+  <a href="https://portfolio-phi-five-98.vercel.app/" target="https://portfolio-phi-five-98.vercel.app/">
     <img 
       src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" 
       height="30" 
